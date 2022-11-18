@@ -105,6 +105,7 @@ class _MyHomePageState extends State<MyHomePage> {
           ],
         ),
       ),
+      // this section is the floating button
       floatingActionButton: FloatingActionButton(
         onPressed: _incrementCounter,
         tooltip: 'Increment',
